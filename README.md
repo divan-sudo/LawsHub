@@ -20,7 +20,7 @@ This is a proof-of-concept web application for managing laws and regulations, al
 ### Setup
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/username/my-app.git
+    git clone https://github.com/divan-sudo/ControlHUB.git
     cd ControlHUB
     ```
     
